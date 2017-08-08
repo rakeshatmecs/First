@@ -1,3 +1,0 @@
-anaconda-ks.cfg
-file.txt
-second.txt
